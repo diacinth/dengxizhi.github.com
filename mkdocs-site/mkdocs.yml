@@ -1,5 +1,15 @@
+#[Info]
 site_name: 僖哥的知识库
-site_url: https://dengxizhi.github.com/mydocs/
+site_url: https://dengxizhi.github.com/mydocs/   # Cannot be accessed due to it needs to be charged to GitHub Pages
+site_description: 记录一些学习笔记和生活琐事
 site_author: 邓僖骘 (Deng Xi Zhi)
+
+#[UI]
 theme:
     name: material
+    custom_dir: docs/overrides  # Custom theme directory
+    font:
+        text: Roboto
+        code: Roboto Mono
+    logo: assets/logo.png  # Logo on the top left corner, can be a relative path or an URL
+    favicon: assets/favicon.png  # Favicon in the browser tab, can be a relative
