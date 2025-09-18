@@ -1,0 +1,5 @@
+site_name: 僖哥的知识库
+site_url: https://dengxizhi.github.com/mydocs/
+site_author: 邓僖骘 (Deng Xi Zhi)
+theme:
+    name: material
