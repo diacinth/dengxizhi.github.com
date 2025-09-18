@@ -12,4 +12,4 @@ theme:
         text: Roboto
         code: Roboto Mono
     logo: assets/logo.png  # Logo on the top left corner, can be a relative path or an URL
-    favicon: assets/favicon.png  # Favicon in the browser tab, can be a relative
+    favicon: favicon.ico   # Favicon in the browser tab, can be a relative
